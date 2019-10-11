@@ -1,0 +1,14 @@
+D:\Git\ubp_1b\src\RestTests\bin\Debug\netcoreapp2.2\RestTests.deps.json
+D:\Git\ubp_1b\src\RestTests\bin\Debug\netcoreapp2.2\RestTests.runtimeconfig.json
+D:\Git\ubp_1b\src\RestTests\bin\Debug\netcoreapp2.2\RestTests.runtimeconfig.dev.json
+D:\Git\ubp_1b\src\RestTests\bin\Debug\netcoreapp2.2\RestTests.dll
+D:\Git\ubp_1b\src\RestTests\bin\Debug\netcoreapp2.2\RestTests.pdb
+D:\Git\ubp_1b\src\RestTests\obj\Debug\netcoreapp2.2\RestTests.csproj.CoreCompileInputs.cache
+D:\Git\ubp_1b\src\RestTests\obj\Debug\netcoreapp2.2\RestTests.AssemblyInfoInputs.cache
+D:\Git\ubp_1b\src\RestTests\obj\Debug\netcoreapp2.2\RestTests.AssemblyInfo.cs
+D:\Git\ubp_1b\src\RestTests\obj\Debug\netcoreapp2.2\RestTests.dll
+D:\Git\ubp_1b\src\RestTests\obj\Debug\netcoreapp2.2\RestTests.pdb
+D:\Git\ubp_1b\src\RestTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Git\ubp_1b\src\RestTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Git\ubp_1b\src\RestTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Git\ubp_1b\src\RestTests\obj\Debug\netcoreapp2.2\RestTests.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Git\ubp_1b\src\QiwiRestMoq\bin\Debug\netcoreapp2.2\QiwiRestMoq.deps.json
+D:\Git\ubp_1b\src\QiwiRestMoq\bin\Debug\netcoreapp2.2\QiwiRestMoq.runtimeconfig.json
+D:\Git\ubp_1b\src\QiwiRestMoq\bin\Debug\netcoreapp2.2\QiwiRestMoq.runtimeconfig.dev.json
+D:\Git\ubp_1b\src\QiwiRestMoq\bin\Debug\netcoreapp2.2\QiwiRestMoq.dll
+D:\Git\ubp_1b\src\QiwiRestMoq\obj\Debug\netcoreapp2.2\QiwiRestMoq.csproj.CoreCompileInputs.cache
+D:\Git\ubp_1b\src\QiwiRestMoq\obj\Debug\netcoreapp2.2\QiwiRestMoq.RazorAssemblyInfo.cache
+D:\Git\ubp_1b\src\QiwiRestMoq\obj\Debug\netcoreapp2.2\QiwiRestMoq.RazorAssemblyInfo.cs
+D:\Git\ubp_1b\src\QiwiRestMoq\obj\Debug\netcoreapp2.2\QiwiRestMoq.AssemblyInfoInputs.cache
+D:\Git\ubp_1b\src\QiwiRestMoq\obj\Debug\netcoreapp2.2\QiwiRestMoq.AssemblyInfo.cs
+D:\Git\ubp_1b\src\QiwiRestMoq\obj\Debug\netcoreapp2.2\QiwiRestMoq.RazorTargetAssemblyInfo.cache
+D:\Git\ubp_1b\src\QiwiRestMoq\bin\Debug\netcoreapp2.2\QiwiRestMoq.pdb
+D:\Git\ubp_1b\src\QiwiRestMoq\obj\Debug\netcoreapp2.2\QiwiRestMoq.dll
+D:\Git\ubp_1b\src\QiwiRestMoq\obj\Debug\netcoreapp2.2\QiwiRestMoq.pdb
+D:\Git\ubp_1b\src\QiwiRestMoq\obj\Debug\netcoreapp2.2\QiwiRestMoq.csprojAssemblyReference.cache

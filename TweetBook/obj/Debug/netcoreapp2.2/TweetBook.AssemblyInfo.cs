@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-TweetBook-11428E83-5AE9-4464-BB68-C2A49A35B930")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-TweetBook-03EEEAF5-DC5C-47AE-937C-1933E781BA0E")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TweetBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
